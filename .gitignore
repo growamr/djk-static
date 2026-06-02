@@ -1,0 +1,7 @@
+.vscode
+/assets/hyper/
+/assets/unicorn/
+/vendor/
+.htaccess
+index.php
+web.config
